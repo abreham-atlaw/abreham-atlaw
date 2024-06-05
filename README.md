@@ -10,7 +10,6 @@ Tread carefully, for these repositories may hold more than meets the eye. Some s
 
 ## Whispers of the Market 🌙
 
-<img src="giphy.webp"/>
 ```plaintext
 r_trader - A dance beneath the moonlit sky,
 Where constellations guide the unseen tie.
