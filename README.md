@@ -1,6 +1,7 @@
 ## Whispers in the Code
 
-Welcome, traveler, to the labyrinthine corners of my mind. Here, logic dances with the enigmatic, and code becomes a forgotten language whispered by the stars. 
+<h1 style="font-style:italic">Welcome, traveler, to the labyrinthine corners of my mind.</h1>
+Here, logic dances with the enigmatic, and code becomes a forgotten language whispered by the stars. 
 
 Tread carefully, for these repositories may hold more than meets the eye. Some secrets slumber deep, waiting for the discerning mind to unearth them. 
 
@@ -8,23 +9,23 @@ Tread carefully, for these repositories may hold more than meets the eye. Some s
 
 *These are but fragments, scattered pieces of a grander design.*
 
-*Project Chimera* - Where disparate elements converge in a symphony of the unorthodox.
-*The Echoing Vault* - A repository of forgotten knowledge, guarded by whispers of the past.
-*The Quantum Weaver* - Realität und Traum verweben sich (Reality and dream intertwine) - a glimpse into the fabric of possibilities.
-
 **Whispers of the Market**
 
+<pre style="font-style:italic">
 *r_trader* - A dance beneath the moonlit sky,
 Where constellations guide the unseen tie.
 Whispers on the wind, a murmured plea,
 To navigate the currents, wild and free.
+</pre>
 
 **Echoes of Creation**
 
+<pre style="font-style:italic">
 *LLM-UI* - A spark ignites, a mind takes flight,
 Woven from code, bathed in starlight.
 A symphony of logic, a touch of grace,
 A helping hand in the coder's race.
+</pre>
 
 **Melodies of the Machine**
 
