@@ -29,7 +29,7 @@ A helping hand in the coder's race.
 ## Melodies of the Machine 🎶
 
 ```plaintext
-*Vega* - Where celestial notes take flight,
+Vega - Where celestial notes take flight,
 A symphony born from starlight.
 Brushstrokes of sound on a canvas unseen,
 A symphony whispered, a machine's dream.
