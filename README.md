@@ -11,7 +11,7 @@ Tread carefully, for these repositories may hold more than meets the eye. Some s
 ## Whispers of the Market 🌙
 
 ```plaintext
-*r_trader* - A dance beneath the moonlit sky,
+r_trader - A dance beneath the moonlit sky,
 Where constellations guide the unseen tie.
 Whispers on the wind, a murmured plea,
 To navigate the currents, wild and free.
@@ -20,7 +20,7 @@ To navigate the currents, wild and free.
 ## Echoes of Creation 🌠
 
 ```plaintext
-*LLM-UI* - A spark ignites, a mind takes flight,
+LLM-UI - A spark ignites, a mind takes flight,
 Woven from code, bathed in starlight.
 A symphony of logic, a touch of grace,
 A helping hand in the coder's race.
@@ -28,10 +28,12 @@ A helping hand in the coder's race.
 
 ## Melodies of the Machine 🎶
 
+```plaintext
 *Vega* - Where celestial notes take flight,
 A symphony born from starlight.
 Brushstrokes of sound on a canvas unseen,
 A symphony whispered, a machine's dream.
+```
 
 ### A Word to the Wise 📜
 
